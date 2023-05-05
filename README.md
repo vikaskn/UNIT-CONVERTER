@@ -1,4 +1,4 @@
-A demo is available [here](https://samarthmb.github.io/unit-converter/)
+A demo is available [here](https://vikaskn.github.io/UNIT-CONVERTER/)
 
 
 OVERVIEW
